@@ -1,0 +1,16 @@
+name: gigu_auto_pilot_pro
+description: GIGU Auto Pilot Pro
+publish_to: 'none'
+
+version: 2.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_overlay_window: ^0.4.4
+
+flutter:
+  uses-material-design: true
